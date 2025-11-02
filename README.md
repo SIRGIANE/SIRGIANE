@@ -15,7 +15,7 @@ Master's student in **Artificial Intelligence** passionate about building intell
 ```python
 class SirgianeOuical:
     def __init__(self):
-        self.location = "Fès, Morocco 🇲🇦"
+        self.location = "Marrakech, Morocco 🇲🇦"
         self.education = "Master's in AI @ Cadi Ayyad University"
         self.interests = [
             "Artificial Intelligence",
